@@ -1,6 +1,3 @@
-#Jhon Patrick Tacio
-#SIA Final Prog
-
 import tkinter as tk
 from tkinter import ttk, messagebox
 from datetime import date
